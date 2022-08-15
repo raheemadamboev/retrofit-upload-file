@@ -1,4 +1,4 @@
-package xyz.teamgravity.retrofitfileupload.ui.theme
+package xyz.teamgravity.retrofitfileupload.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
