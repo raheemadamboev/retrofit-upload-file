@@ -5,7 +5,7 @@ object FileApiConst {
     /**
      * Base url
      */
-    const val BASE_URL = "http://192.168.0.166/"
+    const val BASE_URL = "http://192.168.1.123/"
 
     /**
      * Image file type
